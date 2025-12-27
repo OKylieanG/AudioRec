@@ -17,10 +17,6 @@ Professional audio recorder with manual hotkey control, automatic silence-based 
 
 ## Installation
 
-**Three versions available:**
-- `audio_recorder.py` - Basic version (no RX11, no monitoring)
-- `audio_recorder_rx11.py` - Adds RX11 integration
-- `audio_recorder_armed.py` - Full version with ARM monitoring + RX11 (recommended)
 
 1. Install Python 3.8 or higher
 2. Install dependencies:
