@@ -46,7 +46,7 @@ For lower latency:
 
 1. Run the recorder:
 ```bash
-python audio_recorder_armed.py
+python audio_recorder_sil.py
 ```
 
 2. Select your input device (Traktor Audio 6 Input B should be auto-selected if connected)
